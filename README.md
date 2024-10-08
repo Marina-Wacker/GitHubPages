@@ -1,4 +1,4 @@
-## https://marina-wacker.github.io/Repository/
+## https://marina-wacker.github.io/repository/
 Website
 
 <!--
