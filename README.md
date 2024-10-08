@@ -1,4 +1,4 @@
-## https://marina-wacker.github.io/GitHubPages/ Hi there 👋
+## https://marina-wacker.github.io/GitHubPages/
 
 
 <!--
